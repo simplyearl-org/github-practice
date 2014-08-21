@@ -1,3 +1,5 @@
+<h2>Super awesome</h2>
+
 GitHub Practice Repo
 
 Are READMEs automatically made?
@@ -9,4 +11,3 @@ Ah, OK... The readme files are displayed on the project's site. Does it support 
 	<li>omg, how are tabs going to be rendered?</li>
 </ul>
 
-<h2>Super awesome</h2>
